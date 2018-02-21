@@ -1,0 +1,31 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "building a restaurant burger app with node, handlebars and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbattles87/Eat-Da-Burger.git"
+  },
+  "keywords": [
+    "burgers",
+    "eating",
+    "burgerfi"
+  ],
+  "author": "Will Battles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbattles87/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/wbattles87/Eat-Da-Burger#readme",
+    "dependencies": {
+      "express": "4.16.2",
+      "body-parser": "1.18.2",
+      "express-handlebars": "3.0.0",
+      "method-override": "2.3.10",
+      "mysql": "2.15.0"
+    }
+}
