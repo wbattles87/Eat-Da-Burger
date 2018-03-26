@@ -29,5 +29,7 @@
     "method-override": "^2.3.10",
     "mysql": "^2.15.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
+  }
 }

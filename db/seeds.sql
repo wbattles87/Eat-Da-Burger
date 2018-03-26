@@ -5,3 +5,5 @@ INSERT INTO burgers (burger_name, devoured) VALUES ('Breakfast Burger', false);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Double Bacon Burger', true);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Burger Sliders', true);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Avacado Burger', true);
+
+
