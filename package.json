@@ -2,7 +2,7 @@
   "name": "eat-da-burger",
   "version": "1.0.0",
   "description": "building a restaurant burger app with node, handlebars and mysql",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1",
     "start": "node server.js"
@@ -24,10 +24,12 @@
   "homepage": "https://github.com/wbattles87/Eat-Da-Burger#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
     "express": "^4.16.2",
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.10",
-    "mysql": "^2.15.0"
+    "mysql": "^2.15.0",
+    "nodejs": "0.0.0"
   },
   "devDependencies": {
     "handlebars-helper-css": "^0.1.0"
